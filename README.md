@@ -1,7 +1,7 @@
 # wht
 wht
 
-# question generator
+# semantic engine
 
 (thanks to mattf for this repo name)
 https://github.com/matheusfillipe
